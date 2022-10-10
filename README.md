@@ -43,7 +43,7 @@
 Ход работы:
 1) В облачном сервисе google console подключить API для работы с google
 sheets и google drive:
-![Снимок экрана 2022-10-10 в 16 49 26](https://user-images.githubusercontent.com/43472988/194859893-7b1058f5-80da-470f-a41f-e86fa96c6029.png)
+![Api](https://user-images.githubusercontent.com/43472988/194862344-36ade29d-cf9e-4a49-aefb-9f388ca40bfb.jpg)
 2) Запуск программы Hello World в google.collab
 ![Hello word 2](https://user-images.githubusercontent.com/43472988/191829709-5c744c2d-8916-4fea-81b5-09cbb5d2ae62.jpeg)
 3) Вывод сообщения Hello World на консоли в Unity
