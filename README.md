@@ -50,7 +50,8 @@ sheets и google drive:
 учётом стоимости игрового объекта в каждый период.
 ![Pycharm1 АД ](https://user-images.githubusercontent.com/43472988/194929651-66e92e5f-7bcf-4694-be9a-e4c8fc317aa6.jpg)
 ![Таблица2 АД](https://user-images.githubusercontent.com/43472988/194929658-a9508843-aa9c-4cbe-8553-059aae1a53d2.jpg)
-3) Вывод сообщения Hello World на консоли в Unity
+3) Создать новый проект на Unity, который будет получать данные из google-
+таблицы, в которую были записаны данные в предыдущем пункте.
 ![Hello World Unity 2](https://user-images.githubusercontent.com/43472988/191839166-3e9af8dd-d859-4073-b9e0-5c146cbba847.jpeg)
 4) Код в Visual Studio для вывода Hello World на консол!
 ![Hello World Unity](https://user-images.githubusercontent.com/43472988/191839673-b8995ad8-970c-44c7-8cfb-f5c52330cc5a.jpeg)
