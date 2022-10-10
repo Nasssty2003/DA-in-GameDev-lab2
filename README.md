@@ -44,8 +44,12 @@
 1) В облачном сервисе google console подключить API для работы с google
 sheets и google drive:
 ![Api](https://user-images.githubusercontent.com/43472988/194862344-36ade29d-cf9e-4a49-aefb-9f388ca40bfb.jpg)
-2) Запуск программы Hello World в google.collab
-![Hello word 2](https://user-images.githubusercontent.com/43472988/191829709-5c744c2d-8916-4fea-81b5-09cbb5d2ae62.jpeg)
+![таблица АД](https://user-images.githubusercontent.com/43472988/194928801-8be71074-34af-4fdc-be71-ba186d389aa0.jpg)
+2) Реализовать запись данных из скрипта на python в google-таблицу. Данные
+описывают изменение темпа инфляции на протяжении 11 отсчётных периодов, с
+учётом стоимости игрового объекта в каждый период.
+![Pycharm1 АД ](https://user-images.githubusercontent.com/43472988/194929651-66e92e5f-7bcf-4694-be9a-e4c8fc317aa6.jpg)
+![Таблица2 АД](https://user-images.githubusercontent.com/43472988/194929658-a9508843-aa9c-4cbe-8553-059aae1a53d2.jpg)
 3) Вывод сообщения Hello World на консоли в Unity
 ![Hello World Unity 2](https://user-images.githubusercontent.com/43472988/191839166-3e9af8dd-d859-4073-b9e0-5c146cbba847.jpeg)
 4) Код в Visual Studio для вывода Hello World на консол!
