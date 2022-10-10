@@ -39,8 +39,7 @@
 передачи данных между инструментами google, Python и Unity
 
 ## Задание 1
-### Реализовать совместную работу и передачу данных в связке Python
-- Google-Sheets – Unity.
+### Реализовать совместную работу и передачу данных в связке Python - Google-Sheets – Unity.
 Ход работы:
 1) Демонстрация сохранения документа google.collab на диск
 ![Hello Word 1](https://user-images.githubusercontent.com/43472988/191829157-8d5df061-35f6-479e-9631-080de2cc1bf1.jpeg)
