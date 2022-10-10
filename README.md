@@ -41,8 +41,9 @@
 ## Задание 1
 ### Реализовать совместную работу и передачу данных в связке Python - Google-Sheets – Unity.
 Ход работы:
-1) Демонстрация сохранения документа google.collab на диск
-![Hello Word 1](https://user-images.githubusercontent.com/43472988/191829157-8d5df061-35f6-479e-9631-080de2cc1bf1.jpeg)
+1) В облачном сервисе google console подключить API для работы с google
+sheets и google drive:
+![Снимок экрана 2022-10-10 в 16 49 26](https://user-images.githubusercontent.com/43472988/194859893-7b1058f5-80da-470f-a41f-e86fa96c6029.png)
 2) Запуск программы Hello World в google.collab
 ![Hello word 2](https://user-images.githubusercontent.com/43472988/191829709-5c744c2d-8916-4fea-81b5-09cbb5d2ae62.jpeg)
 3) Вывод сообщения Hello World на консоли в Unity
