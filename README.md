@@ -43,7 +43,7 @@
 Ход работы:
 1) В облачном сервисе google console подключить API для работы с google
 sheets и google drive:
-![Api](https://user-images.githubusercontent.com/43472988/194862344-36ade29d-cf9e-4a49-aefb-9f388ca40bfb.jpg)
+![Google Cloud](https://user-images.githubusercontent.com/43472988/194934859-945e14ea-8669-4745-867b-43ce43e28d9f.jpg)
 ![таблица АД](https://user-images.githubusercontent.com/43472988/194928801-8be71074-34af-4fdc-be71-ba186d389aa0.jpg)
 2) Реализовать запись данных из скрипта на python в google-таблицу. Данные
 описывают изменение темпа инфляции на протяжении 11 отсчётных периодов, с
